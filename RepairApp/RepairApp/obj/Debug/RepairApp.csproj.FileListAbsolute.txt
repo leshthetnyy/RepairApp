@@ -1,0 +1,33 @@
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\bin\Debug\RepairApp.exe.config
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\bin\Debug\RepairApp.exe
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\bin\Debug\RepairApp.pdb
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\obj\Debug\RepairApp.csprojAssemblyReference.cache
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\obj\Debug\RepairApp.Authorization.resources
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\obj\Debug\RepairApp.Properties.Resources.resources
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\obj\Debug\RepairApp.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\obj\Debug\RepairApp.exe
+C:\Users\usersql\Desktop\App\RepairApp\RepairApp\obj\Debug\RepairApp.pdb
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\bin\Debug\RepairApp.exe.config
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\bin\Debug\RepairApp.exe
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\bin\Debug\RepairApp.pdb
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.csprojAssemblyReference.cache
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Authorization.resources
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.CreatingNewRequest.resources
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Executor.resources
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Properties.Resources.resources
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.exe
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.pdb
+C:\Users\usersql\Desktop\КУРСАЧ И УП01\УП01 Юшкова\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Client.resources
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\bin\Debug\RepairApp.exe.config
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\bin\Debug\RepairApp.exe
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\bin\Debug\RepairApp.pdb
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.csprojAssemblyReference.cache
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Authorization.resources
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Client.resources
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.CreatingNewRequest.resources
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Executor.resources
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.Properties.Resources.resources
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.exe
+C:\Users\usersql\Desktop\1212ЮШКОВА\Новая папка\App\RepairApp\RepairApp\obj\Debug\RepairApp.pdb
